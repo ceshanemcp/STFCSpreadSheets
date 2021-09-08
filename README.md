@@ -5,6 +5,9 @@ The spreadsheet included has the basics that I have used to estimating how I wil
 
 Steps to use the spreadsheet
 
+![image](https://user-images.githubusercontent.com/32071713/132578024-ed90ef89-25d4-40d9-8759-1ebb40591593.png)
+
+
 ## Step 1
 Fill in the amount of Tokens that you will have (Estimated or Actual)
 
