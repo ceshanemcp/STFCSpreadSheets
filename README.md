@@ -1,5 +1,11 @@
 # STFC Spread Sheets
 
+# VoyagerArcRewards.xlsx  
+The spreadsheet included has the basics that I have used to estimating how I will use my Event Store loot.  I am currently Lvl4 and this is for what I have available in my event store rn.  
+
+# PicArcRewards.xlsx  
+The spreadsheet included has the basics that I have used to estimating how I will use my Event Store loot.  I am currently Lvl39 and this is for what I have available in my event store rn.  
+
 # DS9ArcRewards.xlsx  
 The spreadsheet included has the basics that I have used to estimating how I will use my Event Store loot.  I am currently Lvl39 and this is for what I have available in my event store rn.  
 
